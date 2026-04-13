@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+transformers==4.45.2
+scikit-learn==1.5.2
+folium==0.18.0
+networkx==3.3
+torch==2.5.1
+scipy==1.13.1
+branca==0.8.0
+requests==2.32.3
